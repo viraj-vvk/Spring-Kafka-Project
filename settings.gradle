@@ -1,0 +1,4 @@
+rootProject.name = 'Spring-Kafka-Project'
+include 'wikimedia-producer'
+include 'wikimedia-consumer'
+
